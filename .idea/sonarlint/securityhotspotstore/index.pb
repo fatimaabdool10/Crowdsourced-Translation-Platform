@@ -11,3 +11,5 @@ O
 tests/reputation-system.test.ts,6/9/6907ff0c07493f1fa039cd71e6369818d97c7647
 L
 contracts/voting-system.clar,c/6/c6ce2bb58d9e51e5f1f443c97822977519a00806
+K
+tests/voting-system.test.ts,d/d/dd28dc6c1269b0c1455e325c5211f5a5ff057cbf
